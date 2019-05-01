@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">Mortgage Calculator App</string>
+    <string name="welcome_to_the_mortgage_calculator">Welcome to the Mortgage Calculator</string>
+    <string name="please_enter_the_following">Please enter the following:</string>
+
+    <string name="home_value">1. Home Value:</string>
+    <string name="down_payment">2. Down Payment:</string>
+    <string name="interest_rate">3. Annual Interest Rate:</string>
+    <string name="terms">4. Terms (In years):</string>
+    <string name="property_tax_rate">5. Annual Property Tax:</string>
+
+    <string name="monthly_payment_amt"></string>
+    <string name="total_interest_paid"></string>
+    <string name="total_property_tax_paid"></string>
+    <string name="pay_off_date"></string>
+    <string name="monthlyPaymentResult" />
+    <string name="interestPaidResult" />
+    <string name="propertyRaxPaid" />
+    <string name="propertyTaxRate" />
+    <string-array name="terms">
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>40</item>
+    </string-array>
 </resources>
